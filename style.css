@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+table {
+  border-style: solid;
+  border-collapse: collapse;
+  width: 70%;
+}
+
+td {
+  border-style: solid;
+  width: 30%;
+}
+
+html {
+	background-image: url("Img/background.png");
+	background-size: cover;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	color:#efd0ee
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	color:#efd0ee
+}
+
+.buenas {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+.rickroll {
+	margin-bottom:0px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.spider {
+  font-family: 'Roboto', sans-serif;
+  font-size:150%;
+}
